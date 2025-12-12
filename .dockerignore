@@ -1,0 +1,14 @@
+.git
+_build
+deps
+doc
+priv/static
+test
+tmp
+.formatter.exs
+.gitignore
+AGENTS.md
+Dockerfile
+fly.toml
+
+README.md
